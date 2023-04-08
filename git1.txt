@@ -6,3 +6,5 @@ ECHO FILE OPENED
 
 hi
 hi    jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+
+one edited file
