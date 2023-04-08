@@ -4,5 +4,4 @@ ECHO OPENING FILE..
 START "" "C:\Program Files\Fortinet\FortiClient\FortiClient.exe"
 ECHO FILE OPENED
 
-hi
-hi    jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+change 1
